@@ -23,7 +23,7 @@ BFH/recLoEF0l7deFvoUr/2021
 ## How it Works ?
 The Dr.Bot has many commands. Here are some..<br>
 <ul>
-<li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot</li>
+<li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot.</li>
 <li><b>!about vaccine</b>- This command provides the gap that should take between the first two doses of each available vaccine.</li>
 <li><b>!vaccine registration</b> - This command provides the link to the user to register the vaccine if available.</li>
 <li><b>!available vaccine slots</b>- This command leads to the format</li>
@@ -48,9 +48,17 @@ Discord.js - 12.5.3
 
 ## How to configure
 1.Clone project
+```
+hloooo
+```
 
 2.Change directory to Dr.Bot
+```
 
+```
 3.install Libraries
+```
+
+```
 ## How to Run
 Instructions for running
