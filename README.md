@@ -26,14 +26,13 @@ The Dr.Bot has many commands. Here are some..<br>
 **!about vaccine**- This command provides the gap that should take between the first two doses of each available vaccine.<br>
 **!vaccine registration** - This command provides the link to the user to register the vaccine if available.<br>
 **!available vaccine slots**- This command leads to the format<br>
-<b>!vaccine_schedule<SPACE>date<SPACE>
-District name </b> that the user needs to give their details like <br>
-  <b>!vaccine_schedule 23-05_2021 Thrissur</b><br>
+<b>!vaccine_schedule&lt;SPACE&gt;date&lt;SPACE&gt;District name </b> that the user needs to give their details like <br>
+  <b>!vaccine_schedule 23-05-2021 Thrissur</b><br>
   <b>!covid symptoms</b> -This command gives the details of the symptoms from least common to most serious symptoms that should be aware of.<br>
  <b>!subscribe</b>- since no vaccination slots are available at that time if the user needs an hourly update of 1hr he can use this command in the format <br>
- <b>!subscribe<SPACE> Date<SPACE> district</b>
-## Libraries used
-Node.js - 14.17.0
+ <b>!subscribe&lt;SPACE&gt; Date&lt;SPACE&gt;District name</b>
+ ## Libraries used
+Node.js - 14.17.0<br>
 Discord.js - 12.5.3
 ## How to configure
 Instructions for setting up project
