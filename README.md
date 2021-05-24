@@ -22,18 +22,22 @@ BFH/recLoEF0l7deFvoUr/2021
 [link to video]
 ## How it Works ?
 The Dr.Bot has many commands. Here are some..<br>
-**!help**- This command helps the user to identify the remaining commands for the Dr Bot<br>
-**!about vaccine**- This command provides the gap that should take between the first two doses of each available vaccine.<br>
-**!vaccine registration** - This command provides the link to the user to register the vaccine if available.<br>
-**!available vaccine slots**- This command leads to the format<br>
-<b>!vaccine_schedule&lt;SPACE&gt;date&lt;SPACE&gt;District name </b> that the user needs to give their details like <br>
-  <b>!vaccine_schedule 23-05-2021 Thrissur</b><br>
-  <b>!covid symptoms</b> -This command gives the details of the symptoms from least common to most serious symptoms that should be aware of.<br>
- <b>!subscribe</b>- since no vaccination slots are available at that time if the user needs an hourly update of 1hr he can use this command in the format <br>
- <b>!subscribe&lt;SPACE&gt; Date&lt;SPACE&gt;District name</b>
- ## Libraries used
+<ul>
+<li><b>!help</b>- This command helps the user to identify the remaining commands for the Dr Bot</li>
+<li><b>!about vaccine</b>- This command provides the gap that should take between the first two doses of each available vaccine.</li>
+<li><b>!vaccine registration</b> - This command provides the link to the user to register the vaccine if available.</li>
+<li><b>!available vaccine slots</b>- This command leads to the format</li>
+<li><b>!vaccine_schedule&lt;SPACE&gt;date&lt;SPACE&gt;District name </b> that the user needs to give their details like <br>
+  <b>!vaccine_schedule 23-05-2021 Thrissur</b></li>
+<li><b>!covid symptoms</b> -This command gives the details of the symptoms from least common to most serious symptoms that should be aware of.</li>
+<li><b>!subscribe</b>- since no vaccination slots are available at that time if the user needs an hourly update of 1hr he can use this command in the format </li>
+<li><b>!subscribe&lt;SPACE&gt; Date&lt;SPACE&gt;District name</b></li>
+</ul>
+
+## Libraries used
 Node.js - 14.17.0<br>
 Discord.js - 12.5.3
+
 ## How to configure
 Instructions for setting up project
 ## How to Run
