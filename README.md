@@ -5,7 +5,7 @@ After COVID-19 vaccinations opened up for the 18-44 age group in India, appointm
 
 ## Team members
 1. [Swetha Shajan](https://github.com/swethashaja) <br>
-2. [Varsha V G](https://github.com/varshavg)<br>
+2. [Varsha V G](https://github.com/varsha-v-g)<br>
 3. [Ajeesha K A](https://github.com/aji2256)
 ## Team Id
 BFH/recLoEF0l7deFvoUr/2021
