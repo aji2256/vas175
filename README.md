@@ -44,21 +44,26 @@ The Dr.Bot has many commands. Here are some..<br>
 
 ## Libraries used
 Node.js - 14.17.0<br>
-Discord.js - 12.5.3
+Discord.js - 12.5.3<br>
+Axios- To fetch the COWIN API<br>
+Node-cron - For the scheduled updation of vaccine slots<br>
+Express - webframe work
 
 ## How to configure
 1.Clone project
 ```
-hloooo
+git clone https://github.com/swethashaja/cowinbot123.git
+
 ```
 
 2.Change directory to Dr.Bot
 ```
+cd cowinbot123
 
 ```
 3.install Libraries
 ```
-
+npm install
 ```
 ## How to Run
 Instructions for running
