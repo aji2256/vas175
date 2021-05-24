@@ -9,7 +9,7 @@ To help through this severe crisis that effected mankind we have designed a chat
 •	Able to get hourly update on open slots if available<br>
 •	User will be able to manually check COWIN slots available for their district<br>
 •	Navigate to COWIN site if slot available<br>
-The most important step to prevent covid-19 transmission is SMS 😉 – Social distancing, Mask, Sanitize. Don’t forget it 😌
+The most important step to prevent covid-19 transmission is <b>SMS </b>😉 <br> <b>Social distancing <br> Mask <br>Sanitize</b><br> Don’t forget it 😌
 Stay Home Stay Safe….<br>
 
 ## Team members
