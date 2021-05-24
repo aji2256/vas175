@@ -47,6 +47,10 @@ Node.js - 14.17.0<br>
 Discord.js - 12.5.3
 
 ## How to configure
-Instructions for setting up project
+1.Clone project
+
+2.Change directory to Dr.Bot
+
+3.install Libraries
 ## How to Run
 Instructions for running
