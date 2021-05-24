@@ -1,7 +1,16 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Dr.Bot
 <img src="https://github.com/aji2256/vas175/blob/main/icon/Dr.Bot.png" height="400">
-After COVID-19 vaccinations opened up for the 18-44 age group in India, appointments via the Cowin portal were made mandatory. This bot will give directions to register the vaccine, give awareness about the serious symptoms that listed several ways and guidelines to identify if they have Covid-19 symptoms and how to manage the condition. This bot works at any time whenever you need<br>
+<p>We all have been affected by the current COVID-19 pandemic .Although we managed to overcome the first wave of covid-19 by proper precautions, the second wave left us no option but to stick to the precautions more strictly and get vaccinated. The disease affects everyone regardless of their caste, religion or age.All we can do in this context is to try to stop the spreading of the mutating virus. The best way to prevent and slow down transmission is to be well informed about the COVID-19 virus, the disease it causes and how it spreads.
+We all are aware of the fact that how the second wave of covid-19 is effecting India. After the first wave of COVID-19 vaccinations opened up for the 18-44 age group in India, appointments via the Co-win portal were made mandatory.
+To help through this severe crisis that effected mankind we have designed a chat bot which will assist you with all the information that you need to know about covid-19 and its related queries. This bot will give directions to register the vaccine, give awareness about the serious symptoms and guidelines to handle the situation if they have Covid-19 symptoms and how to manage the condition. This bot works at any time whenever you need.</p>
+📌Key features of the bot is listed below:📌<br>
+•	On command you will be able to register a district to get vaccinated and select age group (18+ or 45+).<br>
+•	Able to get hourly update on open slots if available<br>
+•	User will be able to manually check COWIN slots available for their district<br>
+•	Navigate to COWIN site if slot available<br>
+The most important step to prevent covid-19 transmission is SMS 😉 – Social distancing, Mask, Sanitize. Don’t forget it 😌
+Stay Home Stay Safe….<br>
 
 ## Team members
 1. [Swetha Shajan](https://github.com/swethashaja) <br>
@@ -12,10 +21,20 @@ BFH/recLoEF0l7deFvoUr/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+The Dr.Bot has many commands. Here are some..<br>
+**!help**- This command helps the user to identify the remaining commands for the Dr Bot<br>
+**!about vaccine**- This command provides the gap that should take between the first two doses of each available vaccine.<br>
+**!vaccine registration** - This command provides the link to the user to register the vaccine if available.<br>
+**!available vaccine slots**- This command leads to the format<br>
+<b>!vaccine_schedule<SPACE>date<SPACE>
+District name </b> that the user needs to give their details like <br>
+  <b>!vaccine_schedule 23-05_2021 Thrissur</b><br>
+  <b>!covid symptoms</b> -This command gives the details of the symptoms from least common to most serious symptoms that should be aware of.<br>
+ <b>!subscribe</b>- since no vaccination slots are available at that time if the user needs an hourly update of 1hr he can use this command in the format <br>
+ <b>!subscribe<SPACE> Date<SPACE> district</b>
 ## Libraries used
-Library Name - Version
+Node.js - 14.17.0
+Discord.js - 12.5.3
 ## How to configure
 Instructions for setting up project
 ## How to Run
