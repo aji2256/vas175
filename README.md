@@ -22,7 +22,7 @@ Stay Home Stay Safe….<br>
 ## Team Id
 BFH/recLoEF0l7deFvoUr/2021
 ## Link to product walkthrough
-https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0
+[Click Here](https://www.loom.com/share/0ba69a994d7b471daf0fba0cd614e1b0) to know how bot works (video)
 ## How it Works ?
 The Dr.Bot has many commands. Here are some..<br>
 <ul>
