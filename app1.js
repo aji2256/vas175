@@ -1,5 +1,5 @@
 const district = [
-        {
+        { 
             "district_id": 301,
             "district_name": "Alappuzha"
         },
